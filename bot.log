@@ -1,0 +1,87 @@
+2026-11-17 18:52:23,416 | INFO     | database | База данных подключена: bot.db
+2026-11-17 18:52:41,794 | INFO     | main | Бот запущен: @pumpkinwd_bot
+2026-11-17 18:52:41,794 | INFO     | aiogram.dispatcher | Start polling
+2026-11-17 18:52:41,794 | INFO     | aiogram.dispatcher | Run polling for bot @pumpkinwd_bot id=9081720714 - 'pumpkinbot'
+2026-11-17 18:52:44,839 | INFO     | aiogram.event | Update id=760523883 is handled. Duration 468 ms by bot id=9081720714
+2026-11-17 18:52:52,183 | INFO     | aiogram.event | Update id=760523884 is handled. Duration 108 ms by bot id=9081720714
+2026-11-17 18:52:53,723 | INFO     | aiogram.event | Update id=760523885 is handled. Duration 281 ms by bot id=9081720714
+2026-11-17 18:53:13,046 | INFO     | aiogram.event | Update id=760523886 is handled. Duration 108 ms by bot id=9081720714
+2026-11-17 18:53:28,589 | INFO     | handlers.admin | Создана публикация #1 (document) код=-tVV45tMA0w
+2026-11-17 18:53:28,747 | INFO     | aiogram.event | Update id=760523887 is handled. Duration 171 ms by bot id=9081720714
+2026-11-17 18:53:41,047 | INFO     | aiogram.event | Update id=760523888 is handled. Duration 233 ms by bot id=9081720714
+2026-11-17 18:53:46,180 | INFO     | aiogram.event | Update id=760523889 is handled. Duration 483 ms by bot id=9081720714
+2026-11-17 18:53:51,687 | INFO     | aiogram.event | Update id=760523890 is handled. Duration 171 ms by bot id=9081720714
+2026-11-17 19:02:20,202 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2026-11-17 19:02:20,234 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 9081720714)
+2026-11-17 19:02:42,296 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:02:42,296 | WARNING  | aiogram.dispatcher | Sleep for 1.313845 seconds and try again... (tryings = 1, bot id = 9081720714)
+2026-11-17 19:03:04,657 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:03:04,657 | WARNING  | aiogram.dispatcher | Sleep for 1.543325 seconds and try again... (tryings = 2, bot id = 9081720714)
+2026-11-17 19:03:27,240 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:03:27,240 | WARNING  | aiogram.dispatcher | Sleep for 2.012769 seconds and try again... (tryings = 3, bot id = 9081720714)
+2026-11-17 19:03:50,305 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:03:50,306 | WARNING  | aiogram.dispatcher | Sleep for 2.549262 seconds and try again... (tryings = 4, bot id = 9081720714)
+2026-11-17 19:04:13,906 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:04:13,907 | WARNING  | aiogram.dispatcher | Sleep for 3.169232 seconds and try again... (tryings = 5, bot id = 9081720714)
+2026-11-17 19:04:38,120 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:04:38,120 | WARNING  | aiogram.dispatcher | Sleep for 4.119984 seconds and try again... (tryings = 6, bot id = 9081720714)
+2026-11-17 19:05:03,298 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:05:03,298 | WARNING  | aiogram.dispatcher | Sleep for 4.898401 seconds and try again... (tryings = 7, bot id = 9081720714)
+2026-11-17 19:05:29,250 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:05:29,250 | WARNING  | aiogram.dispatcher | Sleep for 5.047712 seconds and try again... (tryings = 8, bot id = 9081720714)
+2026-11-17 19:05:55,364 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:05:55,364 | WARNING  | aiogram.dispatcher | Sleep for 4.973056 seconds and try again... (tryings = 9, bot id = 9081720714)
+2026-11-17 19:06:21,371 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:06:21,371 | WARNING  | aiogram.dispatcher | Sleep for 5.059300 seconds and try again... (tryings = 10, bot id = 9081720714)
+2026-11-17 19:06:47,464 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:06:47,464 | WARNING  | aiogram.dispatcher | Sleep for 4.769348 seconds and try again... (tryings = 11, bot id = 9081720714)
+2026-11-17 19:07:13,286 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:07:13,286 | WARNING  | aiogram.dispatcher | Sleep for 5.034839 seconds and try again... (tryings = 12, bot id = 9081720714)
+2026-11-17 19:07:39,352 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:07:39,353 | WARNING  | aiogram.dispatcher | Sleep for 5.053295 seconds and try again... (tryings = 13, bot id = 9081720714)
+2026-11-17 19:08:05,468 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:08:05,468 | WARNING  | aiogram.dispatcher | Sleep for 5.092777 seconds and try again... (tryings = 14, bot id = 9081720714)
+2026-11-17 19:08:31,611 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:08:31,612 | WARNING  | aiogram.dispatcher | Sleep for 5.007257 seconds and try again... (tryings = 15, bot id = 9081720714)
+2026-11-17 19:08:57,687 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:08:57,687 | WARNING  | aiogram.dispatcher | Sleep for 4.992649 seconds and try again... (tryings = 16, bot id = 9081720714)
+2026-11-17 19:09:23,742 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:09:23,742 | WARNING  | aiogram.dispatcher | Sleep for 5.108143 seconds and try again... (tryings = 17, bot id = 9081720714)
+2026-11-17 19:09:49,902 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:09:49,902 | WARNING  | aiogram.dispatcher | Sleep for 4.828434 seconds and try again... (tryings = 18, bot id = 9081720714)
+2026-11-17 19:10:15,757 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:10:15,757 | WARNING  | aiogram.dispatcher | Sleep for 4.985790 seconds and try again... (tryings = 19, bot id = 9081720714)
+2026-11-17 19:10:41,789 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:10:41,789 | WARNING  | aiogram.dispatcher | Sleep for 4.909126 seconds and try again... (tryings = 20, bot id = 9081720714)
+2026-11-17 19:11:07,751 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:11:07,751 | WARNING  | aiogram.dispatcher | Sleep for 5.006673 seconds and try again... (tryings = 21, bot id = 9081720714)
+2026-11-17 19:11:33,808 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:11:33,808 | WARNING  | aiogram.dispatcher | Sleep for 5.053600 seconds and try again... (tryings = 22, bot id = 9081720714)
+2026-11-17 19:11:59,913 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:11:59,913 | WARNING  | aiogram.dispatcher | Sleep for 5.096510 seconds and try again... (tryings = 23, bot id = 9081720714)
+2026-11-17 19:12:26,053 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:12:26,053 | WARNING  | aiogram.dispatcher | Sleep for 4.800276 seconds and try again... (tryings = 24, bot id = 9081720714)
+2026-11-17 19:12:51,913 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:12:51,913 | WARNING  | aiogram.dispatcher | Sleep for 4.964602 seconds and try again... (tryings = 25, bot id = 9081720714)
+2026-11-17 19:13:17,933 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:13:17,933 | WARNING  | aiogram.dispatcher | Sleep for 4.916109 seconds and try again... (tryings = 26, bot id = 9081720714)
+2026-11-17 19:13:43,890 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:13:43,890 | WARNING  | aiogram.dispatcher | Sleep for 4.963183 seconds and try again... (tryings = 27, bot id = 9081720714)
+2026-11-17 19:14:09,904 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:14:09,904 | WARNING  | aiogram.dispatcher | Sleep for 4.939002 seconds and try again... (tryings = 28, bot id = 9081720714)
+2026-11-17 19:14:35,911 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:14:35,911 | WARNING  | aiogram.dispatcher | Sleep for 4.997304 seconds and try again... (tryings = 29, bot id = 9081720714)
+2026-11-17 19:15:01,955 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:15:01,955 | WARNING  | aiogram.dispatcher | Sleep for 4.982474 seconds and try again... (tryings = 30, bot id = 9081720714)
+2026-11-17 19:15:27,984 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:15:27,984 | WARNING  | aiogram.dispatcher | Sleep for 5.034794 seconds and try again... (tryings = 31, bot id = 9081720714)
+2026-11-17 19:15:54,055 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:15:54,055 | WARNING  | aiogram.dispatcher | Sleep for 5.044087 seconds and try again... (tryings = 32, bot id = 9081720714)
+2026-11-17 19:16:20,142 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:16:20,142 | WARNING  | aiogram.dispatcher | Sleep for 5.106001 seconds and try again... (tryings = 33, bot id = 9081720714)
+2026-11-17 19:16:46,295 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:16:46,295 | WARNING  | aiogram.dispatcher | Sleep for 4.876640 seconds and try again... (tryings = 34, bot id = 9081720714)
+2026-11-17 19:17:12,233 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:17:12,233 | WARNING  | aiogram.dispatcher | Sleep for 4.958649 seconds and try again... (tryings = 35, bot id = 9081720714)
+2026-11-17 19:17:38,239 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-11-17 19:17:38,239 | WARNING  | aiogram.dispatcher | Sleep for 4.964335 seconds and try again... (tryings = 36, bot id = 9081720714)
